@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Aarav-coder6943
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python and Block Coding
+- 👀 I’m passionate for programming
+- 🌱 I’m currently learning Java and HTML
 - 💞️ I’m looking to collaborate on Applications for experience
-- 📫 How to reach me instagram id launching soon...
-- 😄 Pronouns: Desperate and Determined
+- 📫 How to reach me https://www.youtube.com/@TheVisionBox43 instagram, X and LinkedIn account launching soon...
+- 😄 Pronouns: Desperate, Determined and passionate
 - ⚡ Fun fact: Knows Guitar
 
 <!---
